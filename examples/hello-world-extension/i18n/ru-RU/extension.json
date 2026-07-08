@@ -1,0 +1,9 @@
+{
+  "displayName": "Расширение «Привет, мир»",
+  "description": "Полная демонстрация возможностей расширений RickyTicky BobbyWobbin",
+  "settingsTabs": {
+    "hello-settings": {
+      "name": "Настройки приветствия"
+    }
+  }
+}

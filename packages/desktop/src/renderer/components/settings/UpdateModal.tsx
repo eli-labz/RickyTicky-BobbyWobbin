@@ -1,0 +1,7 @@
+/**
+ * @license
+ * Copyright 2026 RickyTicky BobbyWobbin (aionui.com)
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+export { default } from './UpdateNotificationCard';

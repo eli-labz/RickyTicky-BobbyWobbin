@@ -1,0 +1,17 @@
+{
+  "desktopPet": "デスクトップロボット",
+  "enable": "デスクトップロボットを有効にする",
+  "size": "ロボットのサイズ",
+  "sizeSmall": "小 ({{px}}px)",
+  "sizeMedium": "中 ({{px}}px)",
+  "sizeLarge": "大 ({{px}}px)",
+  "dnd": "おやすみモード",
+  "dndDescription": "ロボットはアイドル状態を維持し、AIイベントを無視します",
+  "confirmBubble": "認可をロボットウィンドウに表示",
+  "confirmBubbleDescription": "オフにすると、AI ツールの認可リクエストはメインチャットウィンドウに表示されます",
+  "pat": "なでなで",
+  "resetPosition": "位置をリセット",
+  "hide": "非表示",
+  "showHide": "表示/非表示",
+  "desktopOnly": "デスクトップロボットはデスクトップアプリでのみ利用可能です。WebUIブラウザモードでは使用できません。"
+}

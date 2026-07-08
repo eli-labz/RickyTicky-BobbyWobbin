@@ -1,0 +1,17 @@
+{
+  "desktopPet": "Desktop Robot",
+  "enable": "Enable Desktop Robot",
+  "size": "Robot Size",
+  "sizeSmall": "Small ({{px}}px)",
+  "sizeMedium": "Medium ({{px}}px)",
+  "sizeLarge": "Large ({{px}}px)",
+  "dnd": "Do Not Disturb",
+  "dndDescription": "Robot stays idle, ignores AI events",
+  "confirmBubble": "Show authorizations on the robot",
+  "confirmBubbleDescription": "When off, AI tool authorizations stay in the main chat window",
+  "pat": "Pat",
+  "resetPosition": "Reset Position",
+  "hide": "Hide",
+  "showHide": "Show/Hide",
+  "desktopOnly": "Desktop Robot is only available in the desktop application. It cannot be used in WebUI browser mode."
+}

@@ -1,0 +1,17 @@
+{
+  "desktopPet": "Robot de escritorio",
+  "enable": "Activar robot de escritorio",
+  "size": "Tamaño del robot",
+  "sizeSmall": "Pequeño ({{px}}px)",
+  "sizeMedium": "Mediano ({{px}}px)",
+  "sizeLarge": "Grande ({{px}}px)",
+  "dnd": "No molestar",
+  "dndDescription": "El robot permanece inactivo, ignora eventos de IA",
+  "confirmBubble": "Mostrar autorizaciones en el robot",
+  "confirmBubbleDescription": "Cuando está desactivado, las autorizaciones de herramientas de IA permanecen en la ventana principal del chat",
+  "pat": "Acariciar",
+  "resetPosition": "Restablecer posición",
+  "hide": "Ocultar",
+  "showHide": "Mostrar/Ocultar",
+  "desktopOnly": "El robot de escritorio solo está disponible en la aplicación de escritorio. No se puede usar en modo navegador WebUI."
+}

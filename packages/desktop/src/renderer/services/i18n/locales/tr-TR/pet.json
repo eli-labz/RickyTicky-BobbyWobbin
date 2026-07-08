@@ -1,0 +1,17 @@
+{
+  "desktopPet": "Masaüstü Robot",
+  "enable": "Masaüstü Robotu Etkinleştir",
+  "size": "Robot Boyutu",
+  "sizeSmall": "Küçük ({{px}}px)",
+  "sizeMedium": "Orta ({{px}}px)",
+  "sizeLarge": "Büyük ({{px}}px)",
+  "dnd": "Rahatsız Etmeyin",
+  "dndDescription": "Robot boşta kalır, AI olaylarını yok sayar",
+  "confirmBubble": "Yetkilendirmeleri robot penceresinde göster",
+  "confirmBubbleDescription": "Kapalıyken, AI araç yetkilendirmeleri ana sohbet penceresinde kalır",
+  "pat": "Okşa",
+  "resetPosition": "Konumu Sıfırla",
+  "hide": "Gizle",
+  "showHide": "Göster/Gizle",
+  "desktopOnly": "Masaüstü robotu yalnızca masaüstü uygulamasında kullanılabilir. WebUI tarayıcı modunda kullanılamaz."
+}
